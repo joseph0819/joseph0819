@@ -12,7 +12,7 @@ I'm a Software Engineer, Content Creator, technical writer, and Community Engine
 - 💻 Tailwind, Bulma, Bootstrap.
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](file:///C:/Users/HP/Downloads/Joseph's%20Resume.pdf) and contact me by emailing umunnajoseph70@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1iRjEhKaROgFU5P7Pc9OkJh_65zYm37ec/view?usp=sharing) and contact me by emailing umunnajoseph70@gmail.com.
 
 ---
 
