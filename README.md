@@ -6,13 +6,13 @@ I'm a Software Engineer, Content Creator, technical writer, and Community Engine
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
-- 💡 Fun fact: Studied at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2022.
-- 🌱 Proficient in vanilla JavaScript, React.js, and Vue.js.
-- 💻 Tailwind, Bulma, Bootstrap.
-- 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1lmj8qqV-1HAxiqDMSBO7jal8GCV98I_W/view?usp=drive_link) and contact me by emailing umunnajoseph70@gmail.com.
+- Pronouns: He/him
+- Bootcamp: Studied at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2022.
+- Proficient in vanilla JavaScript, React.js, Svelte and Vue.js.
+- Tailwind, Bulma, Bootstrap.
+- I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
+- Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- You can [view my resume](https://drive.google.com/file/d/1lmj8qqV-1HAxiqDMSBO7jal8GCV98I_W/view?usp=drive_link) and contact me by emailing umunnajoseph70@gmail.com.
 
 ---
 
