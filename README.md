@@ -7,7 +7,7 @@ I'm a Software Engineer, Content Creator, technical writer, and Community Engine
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: Studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: Studied at AltSchool Africa [School of Software Engineering]([https://altschoolafrica.com/schools/engineering](https://engineering.altschoolafrica.com/)) Class of 2022.
 - 🌱 Proficient in vanilla JavaScript, React.js, and Vue.js.
 - 💻 Tailwind, Bulma, Bootstrap.
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
