@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-Chimaroke%20Umunna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chimaroke-umunna-03393617a/)
 [![Twitter Badge](https://img.shields.io/badge/-@ceejay08199-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ceejay08199)
 
-I'm a **Software Engineer, Frontend Engineer, Technical Writer, and Community Engineer.**  
+I'm a Software Engineer, Frontend Engineer, Technical Writer, and Community Engineer. 
 
 I’m currently a PhD student in Computer Science & Engineering at the University of Cincinnati, focusing on data-driven research, intelligent systems, and cloud-scale applications. I work as a Research Assistant, looking at how data, statistics, and lightweight AI systems can support better decision-making.  
 
