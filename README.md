@@ -15,8 +15,6 @@ I still enjoy building polished interfaces and writing clean, accessible technic
 - PhD, Computer Science & Engineering — University of Cincinnati (Aug 2025 – Present
 - B.Sc. Statistics — Michael Okpara University of Agriculture (2023)
 - AltSchool Africa — School of Software Engineering, Frontend Track (2023)  
-- TIIDELab Fellowship — Software Engineering (2024)
-
 
 ---
 
