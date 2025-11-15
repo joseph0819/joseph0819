@@ -1,6 +1,5 @@
 # Hello there; welcome 👋🏾
 
-[![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge)](https://altschoolafrica.com/schools/engineering)
 [![LinkedIn Badge](https://img.shields.io/badge/-Chimaroke%20Umunna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chimaroke-umunna-03393617a/)
 [![Twitter Badge](https://img.shields.io/badge/-@ceejay08199-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ceejay08199)
 
@@ -13,8 +12,8 @@ I still enjoy building polished interfaces (React/Svelte/Tailwind) and writing c
 ---
 
 ### 🎓 Education  
-- **PhD, Computer Science & Engineering — University of Cincinnati**  
-- **B.Sc. Statistics — Michael Okpara University of Agriculture**  
+- **PhD, Computer Science & Engineering — University of Cincinnati Aug 2025 - date**  
+- **B.Sc. Statistics — Michael Okpara University of Agriculture 2023**  
 - **AltSchool Africa — School of Software Engineering (Frontend)**  
 - **TIIDELab Fellowship — Software Engineering**
 
