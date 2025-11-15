@@ -9,7 +9,6 @@ I'm a **Software Engineer, Frontend Engineer, Technical Writer, and Community En
 I’m currently a PhD student in Computer Science & Engineering at the University of Cincinnati, focusing on data-driven research, intelligent systems, and cloud-scale applications. I work as a Research Assistant, looking at how data, statistics, and lightweight AI systems can support better decision-making.  
 
 I still enjoy building polished interfaces (React/Svelte/Tailwind) and writing clean, accessible technical content.  
-You can explore my work here: **https://joseph-umunna.vercel.app/
 
 ---
 
